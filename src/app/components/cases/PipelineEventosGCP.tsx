@@ -2,7 +2,7 @@ import { motion } from "motion/react";
 import { Link } from "react-router-dom";
 import { ArrowLeft, Cloud, Database, GitBranch, Shield, Layers, Github, ExternalLink } from "lucide-react";
 import { useEffect } from "react";
-import arquiteturaImage from "../../assets/case-gcp-01.jpg";
+import arquiteturaImage from "../../../assets/case-gcp-01.jpg";
 
 export function PipelineEventosGCP() {
   // Scroll to top when component mounts
