@@ -16,21 +16,21 @@ import {
   ExternalLink
 } from "lucide-react";
 import { useEffect } from "react";
-import dashboardComplementar1 from "figma:asset/1a6eee8907ce6e1d54f9d770ab5f6746bbe876ff.png";
-import dashboardComplementar3 from "figma:asset/7472e29b2ad7cb5450acb4cb0b5bffec708b1812.png";
-import perguntasFrequentes from "figma:asset/0a1803bcba9ba61b7aac7ef9335f6ce209d835cd.png";
-import perguntasLivremente from "figma:asset/d2db5545e3000175eb725bbeb331fc3576e12ba9.png";
-import workflowCapa from "figma:asset/4a31def8868f5cdbebb856e2be0f01cb8af5a434.png";
-import faqImage from "figma:asset/eee99ffef6caedd1d77c3ef1f8f4b8ee20a4bc08.png";
-import perguntasNaturais from "figma:asset/2f02ac50c03f90560f7a29cf2fa1e87a49ed4597.png";
-import resumoIA1 from "figma:asset/27f749167b226f302147a3de29ff2fe00d37b7c6.png";
-import resumoIA2 from "figma:asset/7e455e882e6a95a8ee40b64ad9f0714a11f3706b.png";
-import exportacao1 from "figma:asset/a64493681a5bddd8f45bc50659984d10e871fbe8.png";
-import exportacao2 from "figma:asset/cbc4cd4f47b7c5629e2fbda51f7418f77ca9792a.png";
-import historicoInteracoes from "figma:asset/0e0b2a66f2c0c27ce66e0a9204079c28372444bb.png";
-import kpi1 from "figma:asset/f2ec69b8bc42bf821b55fb10e434ccd33ee5e00e.png";
-import kpi2 from "figma:asset/b3b0e03b56ceebce56de4aaaefb23c7ad86f2c6c.png";
-import arquitetura from "figma:asset/d8c48d0854e0e3e797de65c83d4fdd1d22a72dc9.png";
+import dashboardComplementar1 from "../../assets/case-chatbot-10.jpg";
+import dashboardComplementar3 from "../../assets/case-chatbot-09.jpg";
+import perguntasFrequentes from "../../assets/case-chatbot-01.jpg";
+import perguntasLivremente from "../../assets/case-chatbot-02.jpg";
+import workflowCapa from ".png";
+import faqImage from "";
+import perguntasNaturais from "../../assets/case-chatbot-03.png";
+import resumoIA1 from "../../assets/case-chatbot-04.png";
+import resumoIA2 from "../../assets/case-chatbot-05.png";
+import exportacao1 from "../../assets/case-chatbot-06.png";
+import exportacao2 from "../../assets/case-chatbot-07.png";
+import historicoInteracoes from "../../assets/case-chatbot-08.png";
+import kpi1 from "../../assets/case-chatbot-09.png";
+import kpi2 from "../../assets/case-chatbot-10";
+import arquitetura from "../../assets/case-gcp-01.png";
 
 export function AgenteIAEducacional() {
   // Scroll to top when component mounts
