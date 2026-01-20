@@ -1,6 +1,6 @@
 import { motion } from "motion/react";
 import { Database, Terminal, Workflow, Code2 } from "lucide-react";
-import profileImage from "figma:asset/dc257a0c9e5d1e494e45ed3eabb2d16340717b0a.png";
+import profileImage from "../../assets/profile.jpeg";
 import { SectionFloatingElements } from "@/app/components/SectionFloatingElements";
 
 export function Hero() {
