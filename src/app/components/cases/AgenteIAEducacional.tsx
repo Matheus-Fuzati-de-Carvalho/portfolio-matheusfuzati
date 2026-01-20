@@ -16,21 +16,21 @@ import {
   ExternalLink
 } from "lucide-react";
 import { useEffect } from "react";
-import dashboardComplementar1 from "../../assets/case-chatbot-10.jpg";
-import dashboardComplementar3 from "../../assets/case-chatbot-09.jpg";
-import perguntasFrequentes from "../../assets/case-chatbot-01.jpg";
-import perguntasLivremente from "../../assets/case-chatbot-02.jpg";
-import workflowCapa from "../../assets/case-gcp-01.jpg";
-import faqImage from "../../assets/case-gcp-01.jpg";
-import perguntasNaturais from "../../assets/case-chatbot-03.jpg";
-import resumoIA1 from "../../assets/case-chatbot-04.jpg";
-import resumoIA2 from "../../assets/case-chatbot-05.jpg";
-import exportacao1 from "../../assets/case-chatbot-06.jpg";
-import exportacao2 from "../../assets/case-chatbot-07.jpg";
-import historicoInteracoes from "../../assets/case-chatbot-08.jpg";
-import kpi1 from "../../assets/case-chatbot-09.jpg";
-import kpi2 from "../../assets/case-chatbot-10.jpg";
-import arquitetura from "../../assets/case-gcp-01.jpg";
+import dashboardComplementar1 from "../../../assets/case-chatbot-10.jpg";
+import dashboardComplementar3 from "../../../assets/case-chatbot-09.jpg";
+import perguntasFrequentes from "../../../assets/case-chatbot-01.jpg";
+import perguntasLivremente from "../../../assets/case-chatbot-02.jpg";
+import workflowCapa from "../../../assets/case-gcp-01.jpg";
+import faqImage from "../../../assets/case-gcp-01.jpg";
+import perguntasNaturais from "../../../assets/case-chatbot-03.jpg";
+import resumoIA1 from "../../../assets/case-chatbot-04.jpg";
+import resumoIA2 from "../../../assets/case-chatbot-05.jpg";
+import exportacao1 from "../../../assets/case-chatbot-06.jpg";
+import exportacao2 from "../../../assets/case-chatbot-07.jpg";
+import historicoInteracoes from "../../../assets/case-chatbot-08.jpg";
+import kpi1 from "../../../assets/case-chatbot-09.jpg";
+import kpi2 from "../../../assets/case-chatbot-10.jpg";
+import arquitetura from "../../../assets/case-gcp-01.jpg";
 
 export function AgenteIAEducacional() {
   // Scroll to top when component mounts
