@@ -67,8 +67,6 @@ export function Hero() {
               <span className="text-[#F5B700]">SELECT</span> insights
               <br />
               <span className="text-[#F5B700]">FROM</span> dados
-              <br />
-              <span className="text-[#F5B700]">WHERE</span> qualidade <span className="text-[#F5B700]">=</span> máxima
             </p>
 
             </motion.div>
