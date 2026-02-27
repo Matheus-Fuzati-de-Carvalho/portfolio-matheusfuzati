@@ -57,6 +57,7 @@ export function Projects() {
           <div className="space-y-8">
             {projects.map((project, index) => (
               <Link
+                id={`case-${project.id}`}
                 key={index}
                 to={`/projeto/${project.id}`}
                 className="block mb-8 last:mb-0"
