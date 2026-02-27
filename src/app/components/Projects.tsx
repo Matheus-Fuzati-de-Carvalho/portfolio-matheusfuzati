@@ -9,7 +9,7 @@ export function Projects() {
       id: "pipeline-eventos-gcp",
       title: "Pipeline orientado a eventos — GCP",
       description:
-        "Pipeline de dados moderno orientado a eventos no Google Cloud Platform. Fluxo completo de ETL aplicado a dados de marketing digital com foco em desacoplamento, escalabilidade e automação baseada em eventos.",
+        "Case -  Pipeline de dados moderno orientado a eventos no Google Cloud Platform. Fluxo completo de ETL aplicado a dados de marketing digital com foco em desacoplamento, escalabilidade e automação baseada em eventos.",
       metrics: [
         { label: "Camadas de dados", value: "3" },
         { label: "Serviços GCP", value: "7" },
@@ -21,7 +21,7 @@ export function Projects() {
       id: "agente-ia-educacional",
       title: "Agente de IA — Faculdade Nova Aurora",
       description:
-        "Sistema de IA conversacional integrado a pipelines de dados e dashboards analíticos para apoiar decisões no setor educacional. Perguntas em linguagem natural convertidas em SQL, resumos inteligentes e exportação personalizada de dados.",
+        "Case -  Agente de IA para suporte educacional na Faculdade Nova Aurora é um projeto inovador que utiliza inteligência artificial para fornecer assistência personalizada aos alunos. O agente é capaz de responder a perguntas frequentes, fornecer orientações sobre cursos e recursos acadêmicos, e oferecer suporte 24/7, melhorando significativamente a experiência dos estudantes e otimizando o atendimento institucional.",
       metrics: [
         { label: "Funcionalidades IA", value: "8" },
         { label: "Análises disponíveis", value: "50+" },
