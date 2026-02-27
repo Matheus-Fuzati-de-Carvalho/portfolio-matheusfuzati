@@ -79,12 +79,14 @@ export function Hero() {
               className="flex flex-wrap gap-4"
             >
               <a
+                id="hero-btn-projetos"
                 href="#projetos"
                 className="px-8 py-4 bg-[#F5B700] text-[#051226] font-mono text-sm border-2 border-[#F5B700] hover:bg-transparent hover:text-[#F5B700] transition-all duration-300"
               >
                 Ver Projetos
               </a>
               <a
+                id="hero-btn-contato"
                 href="#contato"
                 className="px-8 py-4 bg-transparent text-[#F4F3EE] font-mono text-sm border-2 border-[#F4F3EE] hover:bg-[#F4F3EE] hover:text-[#051226] transition-all duration-300"
               >
