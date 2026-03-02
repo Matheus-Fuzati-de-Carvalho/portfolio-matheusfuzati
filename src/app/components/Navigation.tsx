@@ -14,7 +14,6 @@ export function Navigation() {
     { label: "Cases", href: "#projetos" },
     { label: "Experiência", href: "#experiencia" },
     { label: "Formação", href: "#formacao" },
-    { label: "Stack", href: "#stack" },
     { label: "Contato", href: "#contato" },
   ];
 
