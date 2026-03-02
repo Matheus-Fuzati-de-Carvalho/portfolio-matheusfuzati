@@ -100,6 +100,7 @@ export function AgenteIAEducacional() {
           >
             {/* Back Button */}
             <Link
+              id="voltar-ao-portfolio-case-chatbot"
               to="/"
               className="inline-flex items-center gap-2 text-[#F5B700] hover:text-[#F4F3EE] transition-colors mb-12 font-mono"
             >

@@ -85,6 +85,7 @@ export function Navigation() {
           <div className="hidden md:flex gap-8">
             {menuItems.map((item) => (
               <button
+                id={`menu-btn-${item.label.toLowerCase()}`}
                 key={item.href}
                 onClick={() => handleNavigation(item.href)}
                 className="font-mono text-sm hover:text-[#F5B700] transition-colors text-[#F4F3EE]"
@@ -113,6 +114,7 @@ export function Navigation() {
           >
             {menuItems.map((item) => (
               <button
+                id={`menu-btn-${item.label.toLowerCase()}-mobile`}
                 key={item.href}
                 onClick={() => handleNavigation(item.href)}
                 className="block font-mono text-sm text-[#F4F3EE] hover:text-[#F5B700] transition-colors w-full text-left"
